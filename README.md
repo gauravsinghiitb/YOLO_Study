@@ -1,4 +1,6 @@
 # YOLO_Study
+https://github.com/user-attachments/assets/d1925834-99c1-42c9-81b0-301c00c6e24c
+
 ## YOLO Algorithm (You Only Look Once)
 
 YOLO (You Only Look Once) is a real-time object detection algorithm known for its speed and accuracy. Unlike traditional methods that apply a classifier to image regions, YOLO frames object detection as a single regression problem, directly predicting bounding boxes and class probabilities from full images in one evaluation.
@@ -16,7 +18,3 @@ YOLO has evolved through multiple versions (v1, v2, v3, v4, YOLOv5, and beyond),
 - Video surveillance
 - Industrial automation
 - Real-time image recognition on mobile devices
-
-
-https://github.com/user-attachments/assets/d1925834-99c1-42c9-81b0-301c00c6e24c
-
